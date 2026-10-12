@@ -1,0 +1,6 @@
+{
+  "name": "Traditioneel Programmeren vs. Machine Learning",
+  "description": "Interactieve split-screen vergelijking tussen hardcoded logica en datagedreven modellen met interactieve leercurve en beslisgrenzen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
